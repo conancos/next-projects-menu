@@ -2,7 +2,7 @@
 
 # JavaScript Projects
 
-| # | ### 🧩 Logic Projects |  📋  | # | ### ⚙ DOM Manipulation |
+| # | 🧩 _Logic Projects_ |  📋  | # | ⚙ _DOM Manipulation_ |
 | --- | --- | --- | --- | --- |
 | `01` | Palindrome Checker | ✅ ✅ | `01` | Random Hex Colors |
 | `02` | Roman Num Converter | ✅ 📌 | `02` | RGB Colors with Sliders |

@@ -1,0 +1,5 @@
+conancos.dev           home
+		works 			
+		contact
+		certifications
+		credits (fonts, imgAI...)

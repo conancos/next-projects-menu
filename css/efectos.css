@@ -1,0 +1,168 @@
+.moon {
+    /* background: linear-gradient(#233244, #0663d4, #000); */
+    background: #233244;
+    color: #fff; /* #deebf6; */
+    text-shadow: 0 0 3px #fff;
+    
+}
+
+.sun {
+    background: #eeee;
+    color: #000;
+    /* text-shadow: 0 1px 1px #000; */
+}
+
+.shadow {
+    text-shadow: 0 0 5px #ff7;
+}
+
+.ghostSun {
+    color: #fff;
+    text-shadow: 0 0 5px #ff7;
+}
+
+.ghostMoon {
+    color: #000;
+    text-shadow: 0 0 2.5px #07f;
+}
+
+.titolSun {
+    background: linear-gradient(#ff0 10%, #f00);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 3px #000);
+}
+
+.titolMoon {
+    background: linear-gradient(#ff0, #fff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 3px #0ff);
+}
+
+.titolMoon2 {
+    background: linear-gradient(#08f, #012);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 1px #0ff);
+}
+
+.flag-moon { /* a button::before */
+    /* border: 2px solid #123; */
+    /* background:  #234d; */
+    /* background: linear-gradient(#000a 10%, transparent 30%, transparent 70%, #000a 90%); */
+    /* background: linear-gradient(#ff02 5%, #2340 15% 85%, #ff02 95%); */
+    background: linear-gradient(transparent, #0009 30% 70%, transparent);
+    /* box-shadow: 0 0 15px 5px #f005; */
+    /*#f50 
+    /* background: linear-gradient(#000a 10%, #233244 30% 70%, #000a 90%); */
+    /* #bcf,  cb7 crema ; */
+}
+
+@keyframes pulsar {
+    0% {background: linear-gradient(5.6deg, transparent, var(--darkPulsar), transparent)}
+    6.25% {background: linear-gradient(11.25deg, transparent, var(--darkPulsar), transparent)}
+    12.5% {background: linear-gradient(22.5deg, transparent, var(--darkPulsar), transparent)}
+    18.75% {background: linear-gradient(33.75deg, transparent, var(--darkPulsar), transparent)}
+    25% {background: linear-gradient(45deg, transparent, var(--darkPulsar), transparent)}
+    31.25% {background: linear-gradient(56.25deg, transparent, var(--darkPulsar), transparent)}
+    37.5% {background: linear-gradient(67.5deg, transparent, var(--darkPulsar), transparent)}
+    43.75% {background: linear-gradient(68.75deg, transparent, var(--darkPulsar), transparent)}
+    50% {background: linear-gradient(90deg, transparent, var(--darkPulsar), transparent)}
+    56.25% {background: linear-gradient(101.25deg, transparent, var(--darkPulsar), transparent)}
+    62.5% {background: linear-gradient(112.5deg, transparent, var(--darkPulsar), transparent)}
+    68.75% {background: linear-gradient(123.75deg, transparent, var(--darkPulsar), transparent)}
+    75% {background: linear-gradient(135deg, transparent, var(--darkPulsar), transparent)}
+    81.25% {background: linear-gradient(146.25deg, transparent, var(--darkPulsar), transparent)}
+    87.5% {background: linear-gradient(157.5deg, transparent, var(--darkPulsar), transparent)}
+    93.75% {background: linear-gradient(168.75deg, transparent, var(--darkPulsar), transparent)} 
+    100% {background: linear-gradient(174.4deg, transparent, var(--darkPulsar), transparent)}
+}
+
+
+@keyframes view {
+    from {
+        opacity: 0;
+        /* translate: 0 200px; */
+        scale: .1;
+    }
+    to {
+        opacity: 1;
+        /* translate: 0 0; */
+        scale: 1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* The Times and The Sunday Times youtube
+Fascistas,
+neonazis,
+pijos miserables y facha-pobres analfabetos. Eso es lo que se encuentra en las manifestaciones de Madrid,
+ciudad corrupta(Gotham City),
+gobernada por una loca genocida de ancianos sin seguro médico privado,
+cosa que no hacía falta pues la sanidad la pagamos los españoles con impuestos,
+pero cuando las residencias se infectaron por el virus del Cóvid y los ancianos requerían tratamiento médico para intentar curarlos,
+solo trasladaron a hospitales públicos a aquellos que tenían seguros en sanidad privada... Mientras su hermano se llevaba 300k euros en comisiones por vender mascarillas de muy mala calidad y a un precio triplicado... Entre otros corruptos sin escrúpulos que vieron en la venta de mascarillas la oportunidad de enriquecerse a toda costa,
+en vez de la decencia de intentar ayudar,
+y están siendo juzgados todavía. El guion de una película mafiosa a lo Al Capone. Convocados por los 2 más altos cargos del PP y el de V🤮X,
+quienes pedían a los cuerpos de seguridad del estado que no cumpliesen órdenes ilegales,
+por la dictadura impuesta por el "ilegítimo" y "traidor" Pedro Sánchez. Pero no es por la amnistía a los catalanes. La única verdad es que están luchando para que no renueven el Consejo General del Poder Judicial (los jueces),
+que llevan 5 años caducados,
+sin renovarse,
+pues tocaba elegir 1 mas de tipo progresista,
+ya que son impares,
+y el que gobierna siempre elige 5 y la oposición 4. Jueces que han ido exonerando,
+cerrando y archivando casos de corrupción del PP y librándolos de ser juzgados y ajusticiados escandalosamente. El fiscal siempre en contra,
+obligando a volver a citar e imputar a los que los jueces siempre libran si son cargos del PP,
+mientras,
+se inventan casos (decenas) contra otras formaciones políticas para desprestigiarlas y ponerlas en contra de la opinión pública,
+pues tenían posibilidad de gobernar. Las televisiones,
+la radios,
+la prensa española... el 80% a sueldo de una banda criminal organizada,
+como dictaminaron organismos y cuerpos del estado encargados de investigar la corrupción. Pues es ámbito público las enormes subvenciones de dinero público que reciben. Desde mi punto de vista,
+y a la vista de todo aquel que quiera informarse con mucho cuidado,
+a través de hechos difundidos por redes sociales,
+youtube y los pocos medios y periodistas que quedan,
+no regados con dinero público ni corrompidos: la derecha española ha perdido todo ápice de decencia,
+empatía y escrúpulos. Es la batalla más antigua de la humanidad,
+EL BIEN CONTRA EL MAL.*/

@@ -189,6 +189,7 @@ main {
                             margin-bottom: 0px; /* 10px quitados para subir h3 de abajo */
                             border-radius: 10px 10px 0 0;
                             user-select: none;
+                            pointer-events: none;
                             transition: .2s;
                         }
 
@@ -204,6 +205,8 @@ main {
                             margin: 0 10%;
                             line-height: 2;
                             font-size: 1.3rem;
+                            /* pointer-events: none;No, pq evita copiar el texto*/
+                            /* user-select: none; */
                             position: absolute;
                             top: 0;
                             left: 0;
